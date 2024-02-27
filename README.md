@@ -1,15 +1,13 @@
-# The Art of Prompt ENgineering
-## Author: Cognitive Class AI
-## Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of The Art of Prompt Engineering from CognitiveClass.ai
+# The Art of Prompt Engineering
+# Author: Cognitive Class AI
+# Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of The Art of Prompt Engineering from CognitiveClass.ai
 
-[![Build Status](https://img.shields.io/travis/username/repo.svg)](https://travis-ci.org/username/repo)
-[![License]](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0TGVEN+v1)
+![GitHub Repo stars](https://img.shields.io/github/stars/:user/:repo)(https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0TGVEN+v1)
 
-Welcome to my awesome project! This project does XYZ and makes your life easier.
+This repository serve as my learning environment of "The Art of Prompt Engineering Course" by CognitiveClass.ai as an daily assignment from Advance AI Studi Independen Kampus Merdeka by Infinite Learning
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
