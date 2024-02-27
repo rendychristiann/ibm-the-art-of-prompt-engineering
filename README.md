@@ -2,7 +2,7 @@
 # Author: Cognitive Class AI
 # Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of The Art of Prompt Engineering from CognitiveClass.ai
 
-![GitHub Repo stars](https://img.shields.io/github/stars/:user/:repo)(https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0TGVEN+v1)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/rendychristiann)
 
 This repository serve as my learning environment of "The Art of Prompt Engineering Course" by CognitiveClass.ai as an daily assignment from Advance AI Studi Independen Kampus Merdeka by Infinite Learning
 
