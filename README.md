@@ -1,6 +1,6 @@
 # The Art of Prompt Engineering
-# Author: Cognitive Class AI
-# Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of The Art of Prompt Engineering from CognitiveClass.ai
+## Author: Cognitive Class AI
+## Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of The Art of Prompt Engineering from CognitiveClass.ai
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/rendychristiann)
 
@@ -14,8 +14,8 @@ This repository serve as my learning environment of "The Art of Prompt Engineeri
 
 
 ## Mentee-Information
-### Name: Rendy Christian
-### Program: IBM Advance AI
+- Name: Rendy Christian
+- Program: IBM Advance AI
 
 ## Tech Stack
 * Python (Jupyter Notebook)
