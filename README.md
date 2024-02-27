@@ -7,11 +7,11 @@
 This repository serve as my learning environment of "The Art of Prompt Engineering Course" by CognitiveClass.ai as an daily assignment from Advance AI Studi Independen Kampus Merdeka by Infinite Learning
 
 ## Table of Contents
-- [Installation](#installation)
-- [Contributing](#contributing)
+- [Mentee Information](#Mentee-Information)
+- [Installation](#Installation)
 - [License](#license)
 
-## Mentee Info
+## Mentee-Information
 ### Name: Rendy Christian
 ### Program: IBM Advance AI
 
