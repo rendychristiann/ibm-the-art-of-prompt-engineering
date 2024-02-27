@@ -1,9 +1,9 @@
 # The Art of Prompt ENgineering
-# Author: Cognitive Class AI
-# Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of The Art of Prompt Engineering from CognitiveClass.ai
+## Author: Cognitive Class AI
+## Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of The Art of Prompt Engineering from CognitiveClass.ai
 
 [![Build Status](https://img.shields.io/travis/username/repo.svg)](https://travis-ci.org/username/repo)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0TGVEN+v1)
+[![License]](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0TGVEN+v1)
 
 Welcome to my awesome project! This project does XYZ and makes your life easier.
 
