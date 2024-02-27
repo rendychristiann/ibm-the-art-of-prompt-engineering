@@ -11,6 +11,10 @@ This repository serve as my learning environment of "The Art of Prompt Engineeri
 - [Contributing](#contributing)
 - [License](#license)
 
+## Mentee Info
+### Name: Rendy Christian
+### Program: IBM Advance AI
+
 ## Installation
 
 To install this project, simply clone the repository and run the following commands:
