@@ -4,19 +4,26 @@
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/rendychristiann)
 
-This repository serve as my learning environment of "The Art of Prompt Engineering Course" by CognitiveClass.ai as an daily assignment from Advance AI Studi Independen Kampus Merdeka by Infinite Learning
+This repository serve as my learning environment of "The Art of Prompt Engineering Course" by CognitiveClass.ai as a daily assignment from Advance AI Studi Independen Kampus Merdeka by Infinite Learning
 
 ## Table of Contents
 - [Mentee Information](#Mentee-Information)
-- [Installation](#Installation)
+- [Tech-Stack](#Tech-Stack)
 - [License](#license)
+- [Installation](#Installation)
+
 
 ## Mentee-Information
 ### Name: Rendy Christian
 ### Program: IBM Advance AI
 
-## Installation
+## Tech Stack
+* Python (Jupyter Notebook)
 
+## License
+Cognitive Class AI (Powered by IBM Skills Network)
+
+## Installation
 To install this project, simply clone the repository and run the following commands:
 
 ```bash
