@@ -29,6 +29,6 @@ This repository serve as my learning environment of "The Art of Prompt Engineeri
 To install this project, simply clone the repository and run the following commands:
 
 ```bash
-git clone https://github.com/username/ibm-the-art-of-prompt-engineering.git
+git clone https://github.com/rendychristiann/ibm-the-art-of-prompt-engineering.git
 cd ibm-the-art-of-prompt-engineering
 npm install
